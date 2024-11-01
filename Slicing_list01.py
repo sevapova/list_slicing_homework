@@ -6,4 +6,6 @@ def main(numbers):
     Returns:
         list: return answer.
     """
-    return
+ls=['r','a','q','a','m','l','a','r']
+x=ls[0::2]
+print(x)

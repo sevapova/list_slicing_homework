@@ -7,4 +7,7 @@ def main(list1,n):
     Returns:
         list: return answer.
     """
-    return
+l=['a','b',3,4,5,6,7,8]
+n=len(l)
+x=l[-8:n-3]
+print(x)

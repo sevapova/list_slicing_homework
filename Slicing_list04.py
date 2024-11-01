@@ -6,4 +6,6 @@ def main(list1):
     Returns:
         list: return answer.
     """
-    return
+ls=[1,0,5,4,6]
+x=ls[0:3]
+print (x)

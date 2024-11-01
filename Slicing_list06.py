@@ -1,8 +1,6 @@
 def main(list1):
-    """A list of several elements is given. Return all items from the beginning in three steps.
-    Args:
-        list1(list): parameter
-    Returns:
-        list: return answer.
-    """
-    return
+ list_1=[1,2,3,4,5,6,7,8]
+ x=main(list_1[0:4:2])
+ 
+ print (x)
+ 
